@@ -1,0 +1,44 @@
+<view class="container">
+  <view class="form">
+    <view class="form-item">
+      <view class="label">车牌号码</view>
+      <input class="input" model:value="{{form.plateNumber}}" placeholder="请输入车牌号码" />
+    </view>
+    <view class="form-item">
+      <view class="label">微信号</view>
+      <input class="input" model:value="{{form.wxId}}" placeholder="请输入微信号" />
+    </view>
+    <view class="form-item">
+      <view class="label">微信名</view>
+      <input class="input" model:value="{{form.wxName}}" placeholder="请输入微信名" />
+    </view>
+    <view class="form-item">
+      <view class="label">手机号码</view>
+      <input class="input" model:value="{{form.phone}}" type="number" placeholder="请输入手机号码" />
+    </view>
+    <view class="form-item">
+      <view class="label">账号</view>
+      <input class="input" model:value="{{form.username}}" placeholder="请输入账号" />
+    </view>
+    <view class="form-item">
+      <view class="label">密码</view>
+      <input class="input" model:value="{{form.password}}" password placeholder="请输入密码" />
+    </view>
+    <view class="form-item">
+      <view class="label">开票日期</view>
+      <picker mode="date" value="{{form.invoiceDate}}" bindchange="bindDateChange">
+        <view class="picker">{{form.invoiceDate || '请选择日期'}}</view>
+      </picker>
+    </view>
+    <view class="form-item">
+      <view class="label">金额</view>
+      <input class="input" model:value="{{form.amount}}" type="digit" placeholder="请输入金额" />
+    </view>
+    <view class="form-item">
+      <view class="label">备注</view>
+      <textarea class="textarea" model:value="{{form.remarks}}" placeholder="请输入备注" />
+    </view>
+
+    <button class="submit-btn" bindtap="handleSubmit">保存</button>
+  </view>
+</view>

@@ -1,0 +1,40 @@
+.app-container {
+  min-height: 100vh;
+}
+
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 24px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 24px;
+}
+
+.dashboard-header h1 {
+  color: #fff;
+  margin: 0;
+}
+
+.table-container {
+  margin: 24px;
+  padding: 24px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.table-actions {
+  margin-bottom: 16px;
+}
+
+.ant-form-item {
+  margin-bottom: 16px;
+}

@@ -1,0 +1,22 @@
+<view class="container">
+  <view class="header">
+    <view class="title">司机信息列表</view>
+    <button class="add-btn" bindtap="handleAdd">添加司机</button>
+  </view>
+
+  <view class="list">
+    <view class="item" wx:for="{{drivers}}" wx:key="_id">
+      <view class="info">
+        <view class="plate">车牌：{{item.plateNumber}}</view>
+        <view class="name">微信名：{{item.wxName}}</view>
+        <view class="phone">手机：{{item.phone}}</view>
+        <view class="invoice">开票日期：{{item.invoiceDate}}</view>
+        <view class="amount">金额：{{item.amount}}</view>
+      </view>
+      <view class="actions">
+        <button size="mini" bindtap="handleEdit" data-id="{{item._id}}">编辑</button>
+        <button size="mini" type="warn" bindtap="handleDelete" data-id="{{item._id}}">删除</button>
+      </view>
+    </view>
+  </view>
+</view>

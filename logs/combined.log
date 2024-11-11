@@ -1,0 +1,38 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-10T17:33:19.324Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"41adbbfb-51a8-463f-9c25-4595b765fd14"},"timestamp":"2024-11-10T17:33:23.336Z"}
+{"level":"info","message":{"method":"POST","path":"/api/auth/login","requestId":"ed81ee92-5f50-468d-9169-e25c528443a9"},"timestamp":"2024-11-10T17:33:31.150Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"29872c8a-732f-4d5d-aa2d-71b990f95766"},"timestamp":"2024-11-10T17:33:31.204Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"ad9c5ae9-3814-43b3-a959-aa7933fc2a21"},"timestamp":"2024-11-10T17:33:43.169Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"bf993040-7bc0-450b-b7d2-e075f87809ae"},"timestamp":"2024-11-10T17:33:45.699Z"}
+{"level":"info","message":{"method":"POST","path":"/api/drivers","requestId":"d3997bff-44c8-485c-9bcd-d5c050084347"},"timestamp":"2024-11-10T17:35:31.846Z"}
+{"level":"info","message":{"method":"POST","path":"/api/drivers","requestId":"839249b3-f053-4b58-ab2f-4458e360e7b0"},"timestamp":"2024-11-10T17:35:54.797Z"}
+{"level":"info","message":{"method":"POST","path":"/api/drivers","requestId":"c722debd-6f44-4b78-98d2-497de4f7af1d"},"timestamp":"2024-11-10T17:35:58.914Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"ddba10e3-ee4b-4104-9cd5-6d0082d792eb"},"timestamp":"2024-11-10T17:35:58.971Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"86924608-968e-45e4-9c59-17570bc35f5f"},"timestamp":"2024-11-10T17:39:05.374Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T02:27:06.685Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"23a02375-8d79-43ef-945d-d4a1b836d9b5"},"timestamp":"2024-11-11T02:31:32.572Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"568bbf27-84ee-4317-8da8-a8464a8d5f47"},"timestamp":"2024-11-11T02:31:38.152Z"}
+{"level":"info","message":{"method":"POST","path":"/api/auth/login","requestId":"6e8a49fc-33ea-4b30-9d30-adf19fdba084"},"timestamp":"2024-11-11T02:33:48.433Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"aa4c7a95-6a52-45bc-ad76-00eaf081bb30"},"timestamp":"2024-11-11T02:33:48.471Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"cef8f866-e1eb-44b2-a6e3-ba3d54d429a1"},"timestamp":"2024-11-11T02:35:13.494Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"6230969e-047b-44e2-bd90-df2c7c935dc7"},"timestamp":"2024-11-11T02:35:14.625Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"7fb69258-6c3d-4f43-948e-31c6b75c9747"},"timestamp":"2024-11-11T02:35:18.871Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"bb34c027-5c45-4b93-83e8-8b06f60aa59e"},"timestamp":"2024-11-11T02:35:21.810Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"3a79cb7f-1ed2-4e11-ada9-a1bb6895722a"},"timestamp":"2024-11-11T02:40:13.269Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"53ebb9aa-df41-45f4-854c-e69787edd531"},"timestamp":"2024-11-11T02:40:19.705Z"}
+{"level":"info","message":{"method":"POST","path":"/api/auth/login","requestId":"6bea31b9-b38f-46a3-a416-32299c3c2bc9"},"timestamp":"2024-11-11T02:40:27.103Z"}
+{"level":"info","message":{"method":"POST","path":"/api/auth/login","requestId":"cbd145db-f4d5-4225-98e2-0038492a8240"},"timestamp":"2024-11-11T02:40:33.983Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"6d2c31b1-b300-431f-9a39-93684640b7fa"},"timestamp":"2024-11-11T02:40:34.028Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"0d9639d8-d0e0-4115-acf7-f2e8a6788c09"},"timestamp":"2024-11-11T02:40:39.122Z"}
+{"level":"info","message":"SIGTERM received. Shutting down gracefully...","timestamp":"2024-11-11T02:42:53.742Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T02:42:58.266Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"7501dffa-e3a1-4275-a6dd-918ef05b6764"},"timestamp":"2024-11-11T02:42:59.397Z"}
+{"level":"info","message":{"method":"POST","path":"/api/auth/login","requestId":"aae45942-2d77-4b43-ba0f-a662a71e1088"},"timestamp":"2024-11-11T02:43:04.389Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"546939fa-7e01-4174-8d59-978eab791045"},"timestamp":"2024-11-11T02:43:04.437Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"80ca83b3-fe50-4e72-8135-a16f3a4e983d"},"timestamp":"2024-11-11T02:43:08.479Z"}
+{"level":"info","message":"SIGTERM received. Shutting down gracefully...","timestamp":"2024-11-11T02:55:09.106Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-11T02:55:43.515Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"6331532b-54d0-43dd-8743-82c2678b4f97"},"timestamp":"2024-11-11T02:55:46.313Z"}
+{"level":"info","message":{"method":"POST","path":"/api/auth/login","requestId":"5f22bca4-b666-452a-b594-0fe3580ff48b"},"timestamp":"2024-11-11T02:55:57.253Z"}
+{"level":"info","message":{"method":"GET","path":"/api/drivers","requestId":"c9acc548-4e20-4fae-9347-77369af18004"},"timestamp":"2024-11-11T02:55:57.291Z"}
+{"level":"info","message":"SIGTERM received. Shutting down gracefully...","timestamp":"2024-11-11T02:56:29.911Z"}

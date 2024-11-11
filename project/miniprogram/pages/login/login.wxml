@@ -1,0 +1,8 @@
+<view class="container">
+  <view class="login-box">
+    <view class="title">司机信息管理系统</view>
+    <input class="input" placeholder="账号" model:value="{{username}}" />
+    <input class="input" placeholder="密码" password="true" model:value="{{password}}" />
+    <button class="login-btn" bindtap="handleLogin">登录</button>
+  </view>
+</view>
