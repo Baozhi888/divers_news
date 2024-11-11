@@ -69,7 +69,7 @@ project/
 
 1. 克隆项目
 ```bash
-git clone <项目地址>
+git clone https://github.com/Baozhi888/truck-driver-management.git
 cd truck-driver-management
 ```
 
